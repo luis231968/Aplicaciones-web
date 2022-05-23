@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url(../IMG/FN1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.titulo {
+    background: rgb(37, 37, 37);
+    height: 60px;
+    padding: 3px;
+}
+h1{
+    color: rgb(168, 177, 230);
+    text-align: center;
+    font-family: georgina;
+}
+h2{
+    text-align: center;
+    font-size:35px ;
+    font-family: segoe print;
+}
+h4{
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+nav{
+        text-align: left;
+        padding: 30px 50px;
+    }
+    
+    nav > a{
+        color:#fff;
+        font-weight: 300;
+        text-decoration: none;
+        margin-right: 10px;
+        font-size: 25px;
+    }
+    
+    nav > a:hover{
+        text-decoration: underline;
+    }
+
+p{
+    font-size: 20px;
+}
+ul{
+    font-size:20px;
+}
+.contactos{
+    position: relative;
+    left:5px;
+    padding: 10px;
+    margin: 10px;
+    background: url(../IMG/FN4.png);
+}
+.Presentacion{
+    position: relative;
+    left: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(180, 217, 248);
+}
+.despedida{
+    position: relative;
+    left: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(180, 217, 248);
+}
+h3{
+    font-size: 40px;
+    color: cornsilk;
+}
+.cuerpo{
+    position: relative;
+    left: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(180, 217, 248);
+}
+.musica{
+    position: relative;
+    left: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(180, 217, 248);
+}
+.musica p{
+    font-size: 30px;
+}
+.musica a{
+    font: size 25px;
+    color: rgb(209, 5, 5);
+}
+.musica a:hover{
+    text-decoration: underline;
+    color: blue;
+}
